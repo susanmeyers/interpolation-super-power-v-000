@@ -1,7 +1,6 @@
-def #display_rainbow (Color)
-  puts: "Color: #{R:red[0], O:orange[1], Y:yellow[2[, G:green [3], B:blue[4], I: Indigo[5], V: Violet[6]}"
+def display_rainbow (color)
+  puts "R: #{color[0]}, O: #{color[1]}, Y: #{color[2]}, G: #{color [3]}, B: #{color[4]}, I: #{color[5]}, V: #{color [6]}"
 end
-  
 
   
   
